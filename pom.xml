@@ -21,6 +21,7 @@
 		<module>common-lib</module>
 		<module>account-svc</module>
 		<module>account-api</module>
+		<module>company-api</module>
 	</modules>
 
 	<dependencyManagement>
